@@ -7,3 +7,4 @@ To invoke from the directory where Dockerfile is located:
   
 For example:
   docker build -t whewatt/centosspringxd .
+  
