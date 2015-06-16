@@ -3,8 +3,4 @@ The included Dockerfile pulls the latest centos image, installs Spring XD (inclu
 dependencies) and starts the XD singlenode.
 
 To invoke from the directory where Dockerfile is located:
-  docker build -t tagname .
-  
-For example:
-  docker build -t whewatt/centosspringxd .
-  
+  docker build -t tagname .  
